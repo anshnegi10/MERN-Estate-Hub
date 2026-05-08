@@ -1,7 +1,7 @@
 # 🏠 EstateHub — UPES Student Housing Platform
 
 > Find verified PGs, flats, and hostels near UPES Bidholi — built for students, by a student.
-
+  Demo Link https://mern-estate-hub-six.vercel.app/explore
 ---
 
 ## 📖 Inspiration
