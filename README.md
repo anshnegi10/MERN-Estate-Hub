@@ -37,22 +37,21 @@ During my 2nd year at UPES, finding PGs, hostels, and flats near Bidholi was dif
 *(Add your project screenshots here)*
 
 ### Home Page
-![Home Page Placeholder](https://placehold.co/800x450?text=EstateHub+Home+Page)
+![Home Page Placeholder]![alt text](<Screenshot 2026-05-09 010827.png>)
 
 ### Explore Page
-![Explore Page Placeholder](https://placehold.co/800x450?text=Explore+Page+Leaflet+Maps)
+![Explore Page Placeholder]![alt text](<Screenshot 2026-05-09 010941.png>)
 
 ### Login Page
-![Login Page Placeholder](https://placehold.co/800x450?text=Secure+JWT+Login)
+![Login Page Placeholder]![alt text](<Screenshot 2026-05-09 010847.png>)
 
 ### Property Detail Page
-![Property Detail Placeholder](https://placehold.co/800x450?text=Property+Details+%26+Amenities)
+![Property Detail Placeholder]![alt text](<Screenshot 2026-05-09 011012.png>)
 
 ### MongoDB Collections
-![MongoDB Placeholder](https://placehold.co/800x450?text=MongoDB+Atlas+Collections)
-
+![MongoDB Placeholder] ![alt text](<Screenshot 2026-05-09 012934.png>)
 ### Owner Listing Form
-![Listing Form Placeholder](https://placehold.co/800x450?text=Owner+Property+Submission)
+![Listing Form Placeholder]![alt text](<Screenshot 2026-05-09 012450.png>)
 
 ---
 
