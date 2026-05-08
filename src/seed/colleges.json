@@ -1,0 +1,108 @@
+
+
+[
+  {
+    "name": "UPES",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "latitude": 30.4165,
+    "longitude": 77.9669
+  },
+  {
+    "name": "Graphic Era University",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "latitude": 30.2676,
+    "longitude": 78.0437
+  },
+
+  {
+    "name": "IIT Delhi",
+    "city": "Delhi",
+    "state": "Delhi",
+    "latitude": 28.5450,
+    "longitude": 77.1926
+  },
+  {
+    "name": "Delhi University",
+    "city": "Delhi",
+    "state": "Delhi",
+    "latitude": 28.6863,
+    "longitude": 77.2218
+  },
+
+  {
+    "name": "IIT Bombay",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "latitude": 19.1334,
+    "longitude": 72.9133
+  },
+  {
+    "name": "Savitribai Phule Pune University",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.5521,
+    "longitude": 73.8246
+  },
+
+  {
+    "name": "IISc Bangalore",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "latitude": 13.0215,
+    "longitude": 77.5676
+  },
+  {
+    "name": "Christ University",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "latitude": 12.9344,
+    "longitude": 77.6056
+  },
+
+  {
+    "name": "VIT Vellore",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "latitude": 12.9716,
+    "longitude": 79.1588
+  },
+  {
+    "name": "Anna University",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.0108,
+    "longitude": 80.2355
+  },
+
+  {
+    "name": "IIT Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.5941,
+    "longitude": 78.1232
+  },
+  {
+    "name": "Osmania University",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.4139,
+    "longitude": 78.5283
+  },
+
+  {
+    "name": "IIT Kanpur",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "latitude": 26.5123,
+    "longitude": 80.2329
+  },
+  {
+    "name": "Amity University Noida",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.5446,
+    "longitude": 77.3330
+  }
+]

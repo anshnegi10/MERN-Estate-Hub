@@ -1,0 +1,2102 @@
+[
+  {
+    "title": "Boys Hostel",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 5358,
+    "propertyType": "Apartment",
+    "latitude": 30.41491977092569,
+    "longitude": 77.97136067456441,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 6256,
+    "propertyType": "PG",
+    "latitude": 30.421079661159432,
+    "longitude": 77.97008108258026,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 11289,
+    "propertyType": "Hostel",
+    "latitude": 30.411288396391242,
+    "longitude": 77.96834095109632,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 8690,
+    "propertyType": "PG",
+    "latitude": 30.419670393114952,
+    "longitude": 77.96959053999255,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 14647,
+    "propertyType": "Hostel",
+    "latitude": 30.40704580272481,
+    "longitude": 77.96123433808691,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 8477,
+    "propertyType": "Hostel",
+    "latitude": 30.40925237926753,
+    "longitude": 77.96664672082535,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 9198,
+    "propertyType": "Hostel",
+    "latitude": 30.412258817912587,
+    "longitude": 77.95986303078594,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 13358,
+    "propertyType": "Shared Flat",
+    "latitude": 30.41781957928882,
+    "longitude": 77.9696336892739,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 14012,
+    "propertyType": "Hostel",
+    "latitude": 30.417247119423006,
+    "longitude": 77.97564330672606,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "UPES",
+    "price": 6942,
+    "propertyType": "Shared Flat",
+    "latitude": 30.4181231967581,
+    "longitude": 77.95989126103711,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 12068,
+    "propertyType": "Hostel",
+    "latitude": 30.2610601063194,
+    "longitude": 78.0412981893388,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 6206,
+    "propertyType": "PG",
+    "latitude": 30.27237832170721,
+    "longitude": 78.05348254120129,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 9786,
+    "propertyType": "PG",
+    "latitude": 30.262714317942933,
+    "longitude": 78.04875047729124,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 14158,
+    "propertyType": "PG",
+    "latitude": 30.27441513495559,
+    "longitude": 78.05316667485751,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 7193,
+    "propertyType": "Apartment",
+    "latitude": 30.265646967244102,
+    "longitude": 78.03373697241354,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 6150,
+    "propertyType": "Hostel",
+    "latitude": 30.264390329944437,
+    "longitude": 78.0358710465655,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 12454,
+    "propertyType": "PG",
+    "latitude": 30.272924832513322,
+    "longitude": 78.04734061372704,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 14688,
+    "propertyType": "Shared Flat",
+    "latitude": 30.262288309781393,
+    "longitude": 78.04458596239778,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 10586,
+    "propertyType": "Hostel",
+    "latitude": 30.262718871484818,
+    "longitude": 78.03804877067678,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "collegeNearby": "Graphic Era University",
+    "price": 13581,
+    "propertyType": "PG",
+    "latitude": 30.270392936545466,
+    "longitude": 78.04169427411773,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 8051,
+    "propertyType": "Shared Flat",
+    "latitude": 28.553584692606805,
+    "longitude": 77.18760838658207,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 9458,
+    "propertyType": "PG",
+    "latitude": 28.549528277377227,
+    "longitude": 77.18935626077997,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 9821,
+    "propertyType": "Hostel",
+    "latitude": 28.540002620658345,
+    "longitude": 77.19290804603253,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 11942,
+    "propertyType": "Shared Flat",
+    "latitude": 28.53548491962989,
+    "longitude": 77.18331989888858,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 14309,
+    "propertyType": "Apartment",
+    "latitude": 28.542430605944364,
+    "longitude": 77.19429532330736,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 9854,
+    "propertyType": "Apartment",
+    "latitude": 28.535402482406028,
+    "longitude": 77.19997875084763,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 10828,
+    "propertyType": "Apartment",
+    "latitude": 28.53881236268403,
+    "longitude": 77.1882982302164,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 12918,
+    "propertyType": "Apartment",
+    "latitude": 28.55027442427615,
+    "longitude": 77.19086134710345,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 8339,
+    "propertyType": "Hostel",
+    "latitude": 28.537805922674995,
+    "longitude": 77.18952216835191,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "IIT Delhi",
+    "price": 10071,
+    "propertyType": "Apartment",
+    "latitude": 28.535388288750305,
+    "longitude": 77.20248973067089,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 10592,
+    "propertyType": "PG",
+    "latitude": 28.686266974867706,
+    "longitude": 77.23057472684637,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 14145,
+    "propertyType": "Apartment",
+    "latitude": 28.68698140285902,
+    "longitude": 77.23141924410255,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 6377,
+    "propertyType": "PG",
+    "latitude": 28.6904408297765,
+    "longitude": 77.22285532530843,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 5726,
+    "propertyType": "Apartment",
+    "latitude": 28.69345201801593,
+    "longitude": 77.21262877620244,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 7408,
+    "propertyType": "PG",
+    "latitude": 28.67632381003889,
+    "longitude": 77.22034494773371,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 9922,
+    "propertyType": "Hostel",
+    "latitude": 28.695193375136718,
+    "longitude": 77.22825143519293,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 10746,
+    "propertyType": "Hostel",
+    "latitude": 28.68829850964023,
+    "longitude": 77.21194306021339,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 12482,
+    "propertyType": "Hostel",
+    "latitude": 28.68909629053015,
+    "longitude": 77.22820959263309,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 12282,
+    "propertyType": "Apartment",
+    "latitude": 28.681050129832677,
+    "longitude": 77.21228773619023,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Delhi",
+    "state": "Delhi",
+    "collegeNearby": "Delhi University",
+    "price": 11672,
+    "propertyType": "Shared Flat",
+    "latitude": 28.68454584817285,
+    "longitude": 77.22449437430275,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 7740,
+    "propertyType": "Apartment",
+    "latitude": 19.138436279105687,
+    "longitude": 72.91137934346574,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 14083,
+    "propertyType": "Hostel",
+    "latitude": 19.12979312643211,
+    "longitude": 72.90978095733938,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 13161,
+    "propertyType": "Hostel",
+    "latitude": 19.127351923153654,
+    "longitude": 72.90811659263984,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 13647,
+    "propertyType": "PG",
+    "latitude": 19.130715487528164,
+    "longitude": 72.91639773366404,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 7668,
+    "propertyType": "Apartment",
+    "latitude": 19.127917473642526,
+    "longitude": 72.91806139224423,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 9277,
+    "propertyType": "Apartment",
+    "latitude": 19.130698869349985,
+    "longitude": 72.92058693285905,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 14468,
+    "propertyType": "Hostel",
+    "latitude": 19.136252865197008,
+    "longitude": 72.91074475445528,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 10817,
+    "propertyType": "Shared Flat",
+    "latitude": 19.136335919952124,
+    "longitude": 72.90967987069527,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 14820,
+    "propertyType": "Shared Flat",
+    "latitude": 19.140669133530956,
+    "longitude": 72.90901401186683,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "collegeNearby": "IIT Bombay",
+    "price": 14735,
+    "propertyType": "Shared Flat",
+    "latitude": 19.133856895106263,
+    "longitude": 72.91314492830112,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 9444,
+    "propertyType": "Hostel",
+    "latitude": 18.554233411246596,
+    "longitude": 73.82630200560847,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 12058,
+    "propertyType": "Hostel",
+    "latitude": 18.547519615428648,
+    "longitude": 73.8259720546635,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 7980,
+    "propertyType": "Apartment",
+    "latitude": 18.549683240698496,
+    "longitude": 73.81954263684398,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 13881,
+    "propertyType": "Hostel",
+    "latitude": 18.55823672072749,
+    "longitude": 73.81932281763814,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 5904,
+    "propertyType": "Shared Flat",
+    "latitude": 18.542869118141986,
+    "longitude": 73.8299279557896,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 12856,
+    "propertyType": "PG",
+    "latitude": 18.556876929426235,
+    "longitude": 73.8327233730478,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 9617,
+    "propertyType": "Shared Flat",
+    "latitude": 18.545642051172877,
+    "longitude": 73.81659836284152,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 14346,
+    "propertyType": "Apartment",
+    "latitude": 18.55979220660968,
+    "longitude": 73.83204927617712,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 7559,
+    "propertyType": "PG",
+    "latitude": 18.551740756042907,
+    "longitude": 73.82020046793168,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "collegeNearby": "Savitribai Phule Pune University",
+    "price": 11764,
+    "propertyType": "Shared Flat",
+    "latitude": 18.55343094258034,
+    "longitude": 73.82633009649618,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 11779,
+    "propertyType": "Apartment",
+    "latitude": 13.01191073163453,
+    "longitude": 77.56451647440981,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 8348,
+    "propertyType": "PG",
+    "latitude": 13.024648359477846,
+    "longitude": 77.56070280836124,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 8527,
+    "propertyType": "Apartment",
+    "latitude": 13.01596489206417,
+    "longitude": 77.56056649462218,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 6680,
+    "propertyType": "Hostel",
+    "latitude": 13.019305265470734,
+    "longitude": 77.55879049499875,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 6710,
+    "propertyType": "Apartment",
+    "latitude": 13.013342799017702,
+    "longitude": 77.56594440909643,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 11319,
+    "propertyType": "Hostel",
+    "latitude": 13.021432122164713,
+    "longitude": 77.57148457866957,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 8846,
+    "propertyType": "PG",
+    "latitude": 13.012975696115006,
+    "longitude": 77.5646809822224,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 14425,
+    "propertyType": "Apartment",
+    "latitude": 13.019317943224967,
+    "longitude": 77.57684865389062,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 11422,
+    "propertyType": "Shared Flat",
+    "latitude": 13.012402136411971,
+    "longitude": 77.57379065837804,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "IISc Bangalore",
+    "price": 14734,
+    "propertyType": "Apartment",
+    "latitude": 13.017026728966885,
+    "longitude": 77.57690248371617,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 14535,
+    "propertyType": "Hostel",
+    "latitude": 12.939783216278489,
+    "longitude": 77.60244405595287,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 5334,
+    "propertyType": "Shared Flat",
+    "latitude": 12.929454011318168,
+    "longitude": 77.59880304425218,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 12022,
+    "propertyType": "Shared Flat",
+    "latitude": 12.93016788069067,
+    "longitude": 77.61110004318111,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 7257,
+    "propertyType": "Apartment",
+    "latitude": 12.938469919580514,
+    "longitude": 77.59593583470506,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 10652,
+    "propertyType": "PG",
+    "latitude": 12.930666946546134,
+    "longitude": 77.60459036332351,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 9759,
+    "propertyType": "Apartment",
+    "latitude": 12.933130065281668,
+    "longitude": 77.61223852573963,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 7884,
+    "propertyType": "PG",
+    "latitude": 12.933193925082927,
+    "longitude": 77.6037634940436,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 13111,
+    "propertyType": "Hostel",
+    "latitude": 12.938405169374207,
+    "longitude": 77.60443589700176,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 13891,
+    "propertyType": "Hostel",
+    "latitude": 12.929839056994233,
+    "longitude": 77.6011684645581,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "collegeNearby": "Christ University",
+    "price": 7938,
+    "propertyType": "Hostel",
+    "latitude": 12.938420498182321,
+    "longitude": 77.60246482576105,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 14337,
+    "propertyType": "Shared Flat",
+    "latitude": 12.973222590272831,
+    "longitude": 79.16790386100728,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 11031,
+    "propertyType": "Hostel",
+    "latitude": 12.97921866769774,
+    "longitude": 79.16478451126923,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 5737,
+    "propertyType": "Apartment",
+    "latitude": 12.974846513523554,
+    "longitude": 79.15029203537269,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 6628,
+    "propertyType": "Hostel",
+    "latitude": 12.963436590063456,
+    "longitude": 79.15086104216115,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 7163,
+    "propertyType": "PG",
+    "latitude": 12.972357739198467,
+    "longitude": 79.16826578035527,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 5979,
+    "propertyType": "PG",
+    "latitude": 12.97469757835406,
+    "longitude": 79.15872896988381,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 9401,
+    "propertyType": "Shared Flat",
+    "latitude": 12.96508021998788,
+    "longitude": 79.15839281783647,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 8708,
+    "propertyType": "PG",
+    "latitude": 12.973792225764988,
+    "longitude": 79.15239458803701,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 13295,
+    "propertyType": "Hostel",
+    "latitude": 12.963504412428522,
+    "longitude": 79.15488411644031,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "collegeNearby": "VIT Vellore",
+    "price": 10356,
+    "propertyType": "Shared Flat",
+    "latitude": 12.9703822933815,
+    "longitude": 79.15624249187822,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 6367,
+    "propertyType": "PG",
+    "latitude": 13.006966036399245,
+    "longitude": 80.23811757185362,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 11769,
+    "propertyType": "Hostel",
+    "latitude": 13.01199099298529,
+    "longitude": 80.22919666255677,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 14317,
+    "propertyType": "Shared Flat",
+    "latitude": 13.019828096460968,
+    "longitude": 80.22837377496805,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 12085,
+    "propertyType": "Apartment",
+    "latitude": 13.001336308569172,
+    "longitude": 80.23707598350684,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 13030,
+    "propertyType": "Apartment",
+    "latitude": 13.009381944583707,
+    "longitude": 80.22714348083993,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 12762,
+    "propertyType": "Hostel",
+    "latitude": 13.01854138829413,
+    "longitude": 80.23271885926374,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 9141,
+    "propertyType": "Apartment",
+    "latitude": 13.013908389815025,
+    "longitude": 80.22718209550709,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 10562,
+    "propertyType": "Shared Flat",
+    "latitude": 13.006449448934303,
+    "longitude": 80.24217672186312,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 5643,
+    "propertyType": "PG",
+    "latitude": 13.009251991636798,
+    "longitude": 80.24091077718619,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "collegeNearby": "Anna University",
+    "price": 12635,
+    "propertyType": "Hostel",
+    "latitude": 13.00607994258201,
+    "longitude": 80.23908079627569,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 12163,
+    "propertyType": "PG",
+    "latitude": 17.586126030258594,
+    "longitude": 78.12171778031306,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 11303,
+    "propertyType": "Hostel",
+    "latitude": 17.600769674907443,
+    "longitude": 78.11828922722465,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 11875,
+    "propertyType": "PG",
+    "latitude": 17.58710185676895,
+    "longitude": 78.12160855172834,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 9229,
+    "propertyType": "Shared Flat",
+    "latitude": 17.585647833956347,
+    "longitude": 78.11389981371514,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 5050,
+    "propertyType": "Shared Flat",
+    "latitude": 17.58437489573396,
+    "longitude": 78.12689031999108,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 5998,
+    "propertyType": "Hostel",
+    "latitude": 17.592309506306908,
+    "longitude": 78.12805596713564,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 7923,
+    "propertyType": "Apartment",
+    "latitude": 17.598641292140027,
+    "longitude": 78.1159545136248,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 5618,
+    "propertyType": "Hostel",
+    "latitude": 17.59638592971397,
+    "longitude": 78.1258332414283,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 14026,
+    "propertyType": "Apartment",
+    "latitude": 17.584761400477266,
+    "longitude": 78.1327299804335,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "IIT Hyderabad",
+    "price": 9562,
+    "propertyType": "Hostel",
+    "latitude": 17.601560621715873,
+    "longitude": 78.12437597077917,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 9392,
+    "propertyType": "Hostel",
+    "latitude": 17.41792365328651,
+    "longitude": 78.53702477556139,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 7841,
+    "propertyType": "Apartment",
+    "latitude": 17.42241688859897,
+    "longitude": 78.53766024302938,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 10457,
+    "propertyType": "Shared Flat",
+    "latitude": 17.42044436592728,
+    "longitude": 78.53666577809823,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 10850,
+    "propertyType": "Shared Flat",
+    "latitude": 17.41581825605688,
+    "longitude": 78.527150288664,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Girls PG",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 8869,
+    "propertyType": "Shared Flat",
+    "latitude": 17.41801481855865,
+    "longitude": 78.53166801708379,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 10344,
+    "propertyType": "Apartment",
+    "latitude": 17.406061680460933,
+    "longitude": 78.53181906153578,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 7447,
+    "propertyType": "Shared Flat",
+    "latitude": 17.40456151162591,
+    "longitude": 78.53073883611647,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 8521,
+    "propertyType": "Shared Flat",
+    "latitude": 17.41219182749865,
+    "longitude": 78.51850155841912,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 7325,
+    "propertyType": "PG",
+    "latitude": 17.42009903427239,
+    "longitude": 78.53296518295213,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "collegeNearby": "Osmania University",
+    "price": 7025,
+    "propertyType": "Apartment",
+    "latitude": 17.417231045101875,
+    "longitude": 78.52041013247094,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 9594,
+    "propertyType": "Apartment",
+    "latitude": 26.516217083845902,
+    "longitude": 80.23767850323237,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 9701,
+    "propertyType": "Apartment",
+    "latitude": 26.51023440270477,
+    "longitude": 80.2368697300274,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 9414,
+    "propertyType": "Hostel",
+    "latitude": 26.520600650195366,
+    "longitude": 80.22739070521848,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 6070,
+    "propertyType": "Shared Flat",
+    "latitude": 26.506185817850646,
+    "longitude": 80.2309915885067,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 8677,
+    "propertyType": "PG",
+    "latitude": 26.50624514286791,
+    "longitude": 80.23963934955849,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 14726,
+    "propertyType": "Apartment",
+    "latitude": 26.51952182415262,
+    "longitude": 80.2305288429677,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 8423,
+    "propertyType": "Hostel",
+    "latitude": 26.50421095911805,
+    "longitude": 80.23235246898481,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 8098,
+    "propertyType": "Shared Flat",
+    "latitude": 26.520765225568212,
+    "longitude": 80.23119831793565,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 14749,
+    "propertyType": "PG",
+    "latitude": 26.514278305035,
+    "longitude": 80.23628729347718,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "IIT Kanpur",
+    "price": 8197,
+    "propertyType": "Shared Flat",
+    "latitude": 26.507552188502668,
+    "longitude": 80.23536442050053,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 14053,
+    "propertyType": "Shared Flat",
+    "latitude": 28.546729399785864,
+    "longitude": 77.33325927263819,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Co-living Space",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 10401,
+    "propertyType": "Hostel",
+    "latitude": 28.551445767081724,
+    "longitude": 77.33088728788954,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 5301,
+    "propertyType": "Hostel",
+    "latitude": 28.551995055554606,
+    "longitude": 77.32360816189708,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 14232,
+    "propertyType": "Hostel",
+    "latitude": 28.53475554762434,
+    "longitude": 77.33046604977969,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 6844,
+    "propertyType": "Apartment",
+    "latitude": 28.536131833541027,
+    "longitude": 77.3274812020199,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 13265,
+    "propertyType": "Apartment",
+    "latitude": 28.549157421379533,
+    "longitude": 77.33178776622209,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student PG",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 8931,
+    "propertyType": "Hostel",
+    "latitude": 28.554126623571975,
+    "longitude": 77.34141333315921,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Boys Hostel",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 9998,
+    "propertyType": "Hostel",
+    "latitude": 28.540093558062402,
+    "longitude": 77.32788039757772,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Student Apartment",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 13085,
+    "propertyType": "Hostel",
+    "latitude": 28.540437827914822,
+    "longitude": 77.33754758817896,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  },
+  {
+    "title": "Budget Hostel",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "collegeNearby": "Amity University Noida",
+    "price": 8149,
+    "propertyType": "PG",
+    "latitude": 28.553696425597206,
+    "longitude": 77.32408841343153,
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e"
+    ]
+  }
+]
